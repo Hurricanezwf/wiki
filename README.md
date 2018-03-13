@@ -1,2 +1,2 @@
-# 查看内容请转至wiki页面 
+# 日常学习笔记，转至到本项目wiki页面
 [移步这里]_https://github.com/Hurricanezwf/wiki/wiki)
